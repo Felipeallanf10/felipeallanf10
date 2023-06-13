@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ## Contato
 - 📧 Email: felipeallanf10@outlook.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/felipe-allan-b61554264
+- 🔗 LinkedIn: [linkedin.com/in/felipe-allan](https://www.linkedin.com/in/felipe-allan-b61554264)
 
 ## Projetos
-- [Rockepay](https://explorer-lab-sooty.vercel.app) : Validação de cartão
-- [Memory game](https://memory-game-zeta-three.vercel.app) : Jogo da memória em HTML, CSS E Javasprit
+- [Rockepay](https://explorer-lab-sooty.vercel.app): Validação de cartão
+- [Memory game](https://memory-game-zeta-three.vercel.app): Jogo da memória em HTML, CSS e JavaScript
 
 ## Habilidades
 - Linguagens: Python, JavaScript, HTML, CSS

@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Felipeallanf10/felipeallanf10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Felipe
+
+## Sobre mim
+- 👋 Tenho 15 anos
+- 📚 Estudo programação e TI
+- 🏫 Ensino Médio com Técnico em TI no Colégio Adventista UNASP EC
+- 💻 Apaixonado por tecnologia e projetos desafiadores
+- 🌟 Interesses: desenvolvimento web, IA e ciência de dados
+
+## Contato
+- 📧 Email: felipeallanf10@outlook.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/felipe-allan-b61554264
+
+## Projetos
+- [Rockepay](https://explorer-lab-sooty.vercel.app) : Validação de cartão
+- [Memory game](https://memory-game-zeta-three.vercel.app) : Jogo da memória em HTML, CSS E Javasprit
+
+## Habilidades
+- Linguagens: Python, JavaScript, HTML, CSS
+- Ferramentas: Git, VS Code, Jupyter Notebook
+
+## Aprendizado contínuo
+- Cursos online, leitura de livros técnicos e participação em comunidades de desenvolvedores
+- Sempre em busca de oportunidades para aprimorar habilidades e contribuir para a comunidade de tecnologia
+
+## Vamos construir o futuro juntos! 🚀

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Felipe
 
 ## Sobre mim
-- 👋 Tenho 15 anos
+- 👋 Tenho 16 anos
 - 📚 Estudo programação e TI
 - 🏫 Ensino Médio com Técnico em TI no Colégio Adventista UNASP EC
 - 💻 Apaixonado por tecnologia e projetos desafiadores

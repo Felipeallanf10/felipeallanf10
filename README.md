@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ## Projetos
 - [Rockepay](https://explorer-lab-sooty.vercel.app): Validação de cartão
 - [Memory game](https://memory-game-zeta-three.vercel.app): Jogo da memória em HTML, CSS e JavaScript
+- [Plann.er](https://planner-ten-sigma.vercel.app/): Planejador de viagens.
 
 ## Habilidades
 - Linguagens: Python, JavaScript, HTML, CSS
